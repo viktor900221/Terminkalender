@@ -1,18 +1,27 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h1>Terminkalender</h1>
+    <h3>von Viktor Legradi-Göhring</h3>
+
+    <div class="container">
+      <!--Woche Mo-So-->
+
+      <!--Eintrag für Termin (Form)-->
+    </div>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
 
 export default {
-  name: 'HomeView',
-  components: {
-    HelloWorld
-  }
-}
+  name: "HomeView",
+  components: {},
+};
 </script>
+
+<style>
+body {
+  background-color: bisque;
+}
+</style>
