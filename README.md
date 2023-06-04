@@ -1,1 +1,1 @@
-# Terminkalender (Node.js + API + VUE.js)
+# Terminkalender (Node.js + API + MYSQL + VUE.js)
